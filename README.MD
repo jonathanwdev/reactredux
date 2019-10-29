@@ -6,9 +6,10 @@
 </p>
 <ul>
 <h3>Dependencies:</h3>
+  <li>Redux to implement flux architecture</li>
+  <li>Redux-Saga to intercept actions with middlewares</li>
   <li>React-toastify to create error animations </li>
   <li>Axios to consume an api</li>
   <li>React Icons to get famous icons packages</li>
   <li>React Icons to get famous icons packages</li>
-  <li>React-Redux and Redux-Saga to share state in multiple components</li>
 </ul>
