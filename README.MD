@@ -11,5 +11,4 @@
   <li>React-toastify to create error animations </li>
   <li>Axios to consume an api</li>
   <li>React Icons to get famous icons packages</li>
-  <li>React Icons to get famous icons packages</li>
 </ul>
