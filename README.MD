@@ -1,8 +1,8 @@
-<h1>E-commerce project built with React-Redux and Redux-Saga</h1>
+<h1>E-commerce built with React-Redux and Redux-Saga</h1>
 <h2>RocketShoes</h2>
 <p>
-  <img src="readmeImages/1.png" width="300">
-  <img src="readmeImages/2.png" width="300">
+  <img src="readmeImages/1.png" width="400">
+  <img src="readmeImages/2.png" width="400">
 </p>
 <ul>
 <h3>Dependencies:</h3>
