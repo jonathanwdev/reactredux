@@ -2,7 +2,7 @@
 <h2>RocketShoes</h2>
 <p>
   <img src="readmeImages/1.png" width="300">
-  <img src="readmeImages/1.png" width="300">
+  <img src="readmeImages/2.png" width="300">
 </p>
 <ul>
 <h3>Dependencies:</h3>
